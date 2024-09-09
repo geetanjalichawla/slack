@@ -1,4 +1,3 @@
-import { Button } from "@/components/ui/button";
 import AuthScreen from "@/features/auth/components/auth-screen";
 import "./globals.css";
 
